@@ -2,7 +2,8 @@
 
 
 ## 🚀 Sobre mim
-Estudante de programação, futuro Bacharel em Ciência da computação. Apaixonado por jogos e tecnologia. Buscando novas oportunidades de trabalho onde eu possa desenvolver competências como programador.
+Estudante de programação, futuro Bacharel em Ciência da computação. 
+Apaixonado por jogos e tecnologia. Buscando novas oportunidades de trabalho onde eu possa desenvolver competências como programador.
 
 
 ## 💬 Contatos
